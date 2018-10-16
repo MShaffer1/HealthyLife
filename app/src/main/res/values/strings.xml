@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">HealthyLife</string>
+    <string name="breadButton">Breads</string>
+    <string name="fruitButton">Fruits</string>
+    <string name="veggieButton">Vegetables</string>
+    <string name="soupButton">Soups</string>
+    <string name="breadImage">Breads</string>
+    <string name="fruitImage">Fruits</string>
+    <string name="veggieImage">Vegetables</string>
+    <string name="soupImage">Soups</string>
+    <string name="splash">Healthy Life</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">"Password "</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+    <string name="logButton">Login</string>
+    <string name="username">User Name</string>
+    <string name="txtUserName" />
+    <string name="TVuserName">Enter Your User Name</string>
+    <string name="hintUserName">Enter User Name</string>
+    <string name="TVpassword">Enter Password</string>
+    <string name="PTxtpassword" />
+    <string name="Password">Password</string>
+    <string name="Welcome">Welcome</string>
+    <string name="emptyString" />
+    <string name="PTusername" />
+    <string name="hint">Enter Username</string>
+    <string name="recipename">Recipe Name</string>
+    <string name="category">Categories</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnAdd">Add</string>
+    <string name="fillRecipename" />
+    <string name="fillIngredients" />
+    <string name="recipeFill">Recipe Name</string>
+    <string name="ingredientsFill">Ingredients</string>
+    <string name="instructionsFill" />
+    <string name="fillInstructions">Instructions</string>
+    <string name="dataTitlePage" translatable="false">Find a Recipe: Select a Category</string>
+    <string name="hintRecipes">Recipe Name</string>
+    <string name="hintIngredients">Ingredients</string>
+    <string name="hintInstructions">Instructions</string>
+    <string name="btnViewData">View Data</string>
+    <string name="TVBreakfast">Breakfast</string>
+    <string name="TVLunch">Lunch</string>
+    <string name="TVDinner" translatable="false" >Dinner</string>
+    <string name="TVDesserts">Desserts</string>
+    <string name="TVRecipesdatabase">Recipes Database</string>
+    <string name="Swipe" translatable="false">"Swipe To See More "</string>
+    <string-array name="spinner_array">
+        <item>Categories</item>
+        <item>Desserts</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+
+    </string-array>
+
+
+</resources>
