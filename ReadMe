@@ -1,0 +1,17 @@
+Healthy Life App
+
+What it is:
+
+School Project
+Android application for the user to store healthy recipes sorted by food type - currently contains a few recipes
+
+What I Learned:
+
+- How to use Android Studio
+- Creating separate pages for the app
+- storing data in a SQLite database
+- how to 'add to and delete from' the data base
+- adding images to the pages as well as buttons
+- use of buttons to go to next page, or to access the stored data
+- user 'login page' - currently has no validation checks for this and does not require a name to continue to main app
+  - this function was simply for personalization of the app and does not access any public domains
